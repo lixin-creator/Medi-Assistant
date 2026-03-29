@@ -1,0 +1,1 @@
+"""Hospital MCP Server package."""
